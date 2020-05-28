@@ -1,4 +1,4 @@
-# MOCVD-Carbon-Contamination-Raman-Maps
+# MOCVD-raman-carboncontaminationmaps
 
 Python processing of Raman data from a Rernishaw inVia Raman Microscope.
 
